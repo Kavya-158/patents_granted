@@ -1,1 +1,1 @@
-# patents_granted
+Download a dataset containing the number of patents issued, categorized by MSA. Since patents are awarded every year select one year of data.Include all product classes, i.e., total number of patents from an area for that year. Create a choropleth map to visualize the distribution of patents across different Metropolitan Statistical Areas (MSAs) in the United States. Add labels for MSAs with the top 5 highest patent counts.
